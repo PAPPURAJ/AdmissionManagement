@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329255921309",
+    "project_id": "admissionmanagementsyste-dee6a",
+    "storage_bucket": "admissionmanagementsyste-dee6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329255921309:android:6f0df8cbfecd409eab5674",
+        "android_client_info": {
+          "package_name": "com.blogspot.duet.admissionmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329255921309-32b5lrjrmu1d53n95vgb20vtp8pqfqma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wGSxsvjwq0YnfNWjV5YnpPySfDn1bR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329255921309-32b5lrjrmu1d53n95vgb20vtp8pqfqma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
